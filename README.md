@@ -1,8 +1,8 @@
-# Fork & Flame 🍴🔥
+# Fork & Flame
 
 Welcome to Fork & Flame, a stylish and interactive restaurant website that showcases a curated menu, immersive visuals, and essential restaurant information. Built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - Responsive homepage with background image
 - Sticky and animated navigation bar
@@ -10,7 +10,7 @@ Welcome to Fork & Flame, a stylish and interactive restaurant website that showc
 - Sections: Home, Menu, About Us, Contact, and Careers
 - Smooth scrolling and basic JavaScript enhancements
 
-## 💡 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
