@@ -16,4 +16,4 @@ Welcome to Fork & Flame, a stylish and interactive restaurant website that showc
 - CSS3
 - JavaScript
 - Google Fonts (Bebas Neue)
-- Responsive Flexbox layout
+- Responsive Flexbox Layout
